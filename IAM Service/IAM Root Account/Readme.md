@@ -20,6 +20,17 @@
 1.11 Now we need to confirm the above details are truly our, to verify this we need to confirm our identity through a text message or voice call.
 <img width="1366" height="768" alt="Screenshot (3392)" src="https://github.com/user-attachments/assets/9d3f58b3-b2fc-45ef-8d4e-dc574b419a00" />
 1.12  After confirming our identity, we need to select a support plan, that is how we want to use this created account, i.e for free or paid, as we want a free plan account, we need to select Basic support plan, then click on complete sign up.
+<img width="1366" height="768" alt="Screenshot (3393)" src="https://github.com/user-attachments/assets/0704f882-1e02-4c8f-a645-2e072bd94846" />
+<img width="1366" height="768" alt="Screenshot (3394)" src="https://github.com/user-attachments/assets/7219c955-59c0-43ac-9203-c74e280cd6b7" />
+1.13 Once our AWS account creation is successfully complete, there will be a message appearing on screen like Congratulations, now to sign in to the created new account, we need to click on Go to the AWS Management Console.
+<img width="1366" height="768" alt="Screenshot (3395)" src="https://github.com/user-attachments/assets/a389880b-1567-4b4d-8f56-7d4920897aa8" />
+1.14 Now to sign in to the created new account, select as Root user, then provide Root user Email address and then provide password.
+<img width="1366" height="768" alt="Screenshot (3396)" src="https://github.com/user-attachments/assets/1e3efb31-7ae3-4055-ac6b-de1e90e0468f" />
+1.15 Now we will be able to use the AWS Management Console.
+<img width="1366" height="768" alt="Screenshot (3397)" src="https://github.com/user-attachments/assets/1e7b4cbc-cdd5-4d53-9d52-c72262706ed0" />
+
+
+
 
 
 

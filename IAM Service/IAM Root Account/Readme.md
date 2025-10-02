@@ -14,6 +14,14 @@
 1.8 Now we should provide our details for this account. To do this we need to provide our full name, phone number, and select the country we belong to. Then we need to provide our fill address details.
 <img width="1366" height="768" alt="Screenshot (3388)" src="https://github.com/user-attachments/assets/621601f6-b6dd-4940-80ae-b0d2fb447d46" />
 <img width="1366" height="768" alt="Screenshot (3389)" src="https://github.com/user-attachments/assets/58ccd526-f210-4ca4-b84a-7b067af2eec2" />
+1.9 So to  create a new account in AWS we need to provide our debit card details, initially two rupees will be deducted from our account, then two rupees will be again added to our account.
+1.10 Now we need to provide our credit card details or debit card details, then Expiration date, Card holders name, Bill address details.
+<img width="1366" height="768" alt="Screenshot (3390)" src="https://github.com/user-attachments/assets/b9dd745a-f4a4-4971-8dc6-db7f3de63d7a" />
+1.11 Now we need to confirm the above details are truly our, to verify this we need to confirm our identity through a text message or voice call.
+<img width="1366" height="768" alt="Screenshot (3392)" src="https://github.com/user-attachments/assets/9d3f58b3-b2fc-45ef-8d4e-dc574b419a00" />
+1.12  After confirming our identity, we need to select a support plan, that is how we want to use this created account, i.e for free or paid, as we want a free plan account, we need to select Basic support plan, then click on complete sign up.
+
+
 
 
 

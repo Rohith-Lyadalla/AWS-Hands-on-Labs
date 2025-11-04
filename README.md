@@ -1,4 +1,4 @@
-# AWS-Hands-on-Labs
+# AWS-Beginner-Level-Hands-on-Labs
 Repository of structured AWS hands-on labs covering cloud fundamentals, compute, storage, networking, security, serverless, and automation with practical use cases.
 A collection of hands-on labs, tutorials, and practical exercises to learn and practice **Amazon Web Services (AWS)**.  
 This repository is designed to help beginners and professionals gain real-world cloud skills by working through guided labs on core AWS services.  
